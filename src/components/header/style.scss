@@ -1,0 +1,120 @@
+header {
+    background-color: #045de9;
+    background-image: linear-gradient(270deg, #045de9 0%, #010197 74%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 5px 20px;
+    z-index: 99;
+    .logoContainer {
+        img {
+            width: 170px;
+        }
+    }
+
+    .searchBox {
+        display: flex;
+        input {
+            padding: 8px;
+            width: 300px;
+            border: 0px;
+            border-bottom-left-radius: 2px;
+            border-top-left-radius: 2px;
+
+            &::-webkit-input-placeholder {
+                color: #ababab;
+            }
+        }
+        button {
+            background: white;
+            border: 0px;
+            padding: 8px 10px;
+            border-bottom-right-radius: 2px;
+            border-top-right-radius: 2px;
+            cursor: pointer;
+            color: #045de9;
+
+            &:hover {
+                color: #002d75;
+            }
+        }
+    }
+    .menu {
+        display: flex;
+        align-items: center;
+
+        .option {
+            position: relative;
+            margin: 0px 10px;
+            padding: 5px 10px;
+            transform: scale(1);
+            transition: all 0.3s;
+
+            &:hover {
+                transform: scale(1.05);
+                .dropdown {
+                    display: block;
+                }
+            }
+
+            a {
+                display: flex;
+                text-decoration: none;
+                color: white;
+                font-size: 1.2rem;
+                transition: all 0.3s;
+
+                &:hover {
+                    color: #76abff;
+                }
+
+                i {
+                    margin-right: 5px;
+                }
+            }
+
+            .dropdown {
+                display: none;
+                position: absolute;
+                list-style: none;
+                background: #fafafa;
+                left: -25px;
+                top: 35px;
+
+                &:before {
+                    content: " ";
+                    position: absolute;
+                    height: 14px;
+                    width: 14px;
+                    background: white;
+                    z-index: -2;
+                    top: -7px;
+                    left: 52px;
+                    transform: rotate(45deg);
+                }
+
+                li {
+                    white-space: nowrap;
+                    padding: 10px 20px;
+                    border: 1px solid #ebebeb;
+                    text-align: left;
+                    min-width: 150px;
+                    cursor: pointer;
+
+                    &:hover {
+                        background: rgb(235, 235, 235);
+                    }
+
+                    i {
+                        margin-right: 10px;
+                        color: #045de9;
+                    }
+                }
+            }
+        }
+    }
+}

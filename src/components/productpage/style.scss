@@ -1,0 +1,116 @@
+
+@mixin siteButton(){
+    position: relative;
+    top: 0px;
+    padding: 5px 10px;
+    display: block;
+    margin: auto;
+    background-color: #2876f9;
+    background-image: linear-gradient(270deg, #2876f9 0%, #6d17cb 74%);
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    cursor: pointer;
+    &:hover {
+        background-color :#ff4e00;
+        background-image :linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+    }
+    &:active {
+        top: 3px;
+    }
+}
+
+
+.checkoutSection {
+    background: linear-gradient(
+183deg
+, #045de9 0%, #010197 74%);
+    padding: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    border-radius: 2px;
+    width: 200px;
+    max-width: 90%;
+    box-shadow: 0px 0px 10px 1px #a5a5a5;
+
+    .checkInfo {
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: white;
+    }
+    .checkoutBtn {
+        @include siteButton();
+    }
+}
+
+.customPopup {
+    visibility: hidden;
+    opacity: 0;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease-in;
+
+    &.show {
+        transition: all 0.3s ease-out;
+        visibility: visible;
+        opacity: 1;
+
+        
+        .popupContainer {
+            top: 50%;
+            transition: all 0.3s ease-out;
+        }
+    }
+
+    .popupContainer {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: -500%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: white;
+        padding: 20px;
+        border-radius: 2px;
+        width: 400px;
+        height: 200px;
+        max-width: 90%;
+        max-height: 90vh;
+        transition: all 0.3s ease-in;
+
+        .exitBtn {
+            position: absolute;
+            right: 10px;
+            top: 4px;
+            cursor: pointer;
+
+            i {
+                font-size: 16px;
+                color: gray;
+            }
+        }
+
+        .popMessageBox {
+            padding: 10px;
+
+            .messageContent {
+                padding: 10px;
+                text-align: center;
+                font-size: 1.2rem;
+            }
+
+            .popupOkBtn {
+                @include siteButton();
+                padding: 7px 20px;
+                margin-top: 10px;
+            }
+        }
+    }
+}

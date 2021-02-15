@@ -1,0 +1,16 @@
+#main {
+  margin: 20px 50px 60px;
+  margin-top: 54px;
+}
+
+.SectionTitle {
+  padding: 15px 0px;
+}
+
+
+@media only screen and (max-width: 900px) {
+  #main {
+    margin: 55px 15px 60px;
+    margin-top: 78px;
+}
+}

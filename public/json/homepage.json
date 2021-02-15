@@ -1,0 +1,37 @@
+[
+    {
+        "categoryName": "Men's Ware",
+        "Thumbnail": "/assets/hpMenThumb.png",
+        "urlParam" : "men"
+    },
+    {
+        "categoryName": "Women's Ware",
+        "Thumbnail": "/assets/hpWomenThumb.png",
+        "urlParam" : "women"
+    },
+    {
+        "categoryName": "Kid's Ware",
+        "Thumbnail": "/assets/hpKidsThumb.png",
+        "urlParam" : "kid"
+    },
+    {
+        "categoryName": "Electronics",
+        "Thumbnail": "/assets/hpElectronicsThumb.png",
+        "urlParam" : "electronics"
+    },
+    {
+        "categoryName": "Home Appliances",
+        "Thumbnail": "/assets/hpHomeThumb.png",
+        "urlParam" : "homeapp"
+    },
+    {
+        "categoryName": "Grocery",
+        "Thumbnail": "/assets/hpGroceryThumb.png",
+        "urlParam" : "grocery"
+    },
+    {
+        "categoryName": "Furniture",
+        "Thumbnail": "/assets/hpFurniThumb.png",
+        "urlParam" : "furniture"
+    }
+]

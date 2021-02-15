@@ -1,0 +1,471 @@
+    {
+        "men": [
+            {
+                "productImage": "/assets/hpMenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Adidas",
+                    "productName": "Blue full arm Shirt Blue full arm Shirt Blue full arm Shirt"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpMenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Levis",
+                    "productName": "Jeans pant blue"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpMenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Puma",
+                    "productName": "Shoe white"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpMenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Reebok",
+                    "productName": "Black Jacket"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpMenThumb.png",
+                "prodNameInfo": {
+                    "brand": "HRX",
+                    "productName": "T shirt gray"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ],
+        "women": [
+            {
+                "productImage": "/assets/hpWomenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Adidas",
+                    "productName": "Saree"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpWomenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Levis",
+                    "productName": "Formal ware"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpWomenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Puma",
+                    "productName": "Blue Jeans"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpWomenThumb.png",
+                "prodNameInfo": {
+                    "brand": "Reebok",
+                    "productName": "Track Pant"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpWomenThumb.png",
+                "prodNameInfo": {
+                    "brand": "HRX",
+                    "productName": "T shirt gray"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ],
+        "kid": [
+            {
+                "productImage": "/assets/hpKidsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Adidas",
+                    "productName": "Blue full arm Shirt Blue full arm Shirt Blue full arm Shirt"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpKidsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Levis",
+                    "productName": "Jeans pant blue"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpKidsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Puma",
+                    "productName": "Shoe white"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpKidsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Reebok",
+                    "productName": "Black Jacket"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpKidsThumb.png",
+                "prodNameInfo": {
+                    "brand": "HRX",
+                    "productName": "T shirt gray"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ],
+        "electronics": [
+            {
+                "productImage": "/assets/hpElectronicsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Samsung",
+                    "productName": "Galaxy 21s"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpElectronicsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Dell",
+                    "productName": "i5 Laptop"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpElectronicsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Sony",
+                    "productName": "Aplha 7c"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpElectronicsThumb.png",
+                "prodNameInfo": {
+                    "brand": "Philips",
+                    "productName": "Trimmer"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpElectronicsThumb.png",
+                "prodNameInfo": {
+                    "brand": "LG",
+                    "productName": "Monitor"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ],
+        "homeapp": [
+            {
+                "productImage": "/assets/hpHomeThumb.png",
+                "prodNameInfo": {
+                    "brand": "Samsung",
+                    "productName": "24L Refrigearator"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpHomeThumb.png",
+                "prodNameInfo": {
+                    "brand": "Sony",
+                    "productName": "54' Television"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpHomeThumb.png",
+                "prodNameInfo": {
+                    "brand": "LG",
+                    "productName": "10L Washing Machine"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpHomeThumb.png",
+                "prodNameInfo": {
+                    "brand": "Usha",
+                    "productName": "Fan"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpHomeThumb.png",
+                "prodNameInfo": {
+                    "brand": "Blue star",
+                    "productName": "Air Conditioner"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ],
+        "grocery": [
+            {
+                "productImage": "/assets/hpGroceryThumb.png",
+                "prodNameInfo": {
+                    "brand": "Nestle",
+                    "productName": "Maggi Masala Instant Noodles Vegetarian"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpGroceryThumb.png",
+                "prodNameInfo": {
+                    "brand": "MTR",
+                    "productName": "Vermicelli 850 g"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpGroceryThumb.png",
+                "prodNameInfo": {
+                    "brand": "TATA",
+                    "productName": "Grand Filter Coffee"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpGroceryThumb.png",
+                "prodNameInfo": {
+                    "brand": "Britannia",
+                    "productName": "Pure Magic Chocolush"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpGroceryThumb.png",
+                "prodNameInfo": {
+                    "brand": "Vim",
+                    "productName": "Vim Dishwash Bar"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ],
+        "furniture": [
+            {
+                "productImage": "/assets/hpFurniThumb.png",
+                "prodNameInfo": {
+                    "brand": "Adidas",
+                    "productName": "Blue full arm Shirt Blue full arm Shirt Blue full arm Shirt"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1200",
+                    "productOriginalPrice": "2400",
+                    "productDiscount": "50%",
+                    "productRating": "4"
+                }
+            },
+            {
+                "productImage": "/assets/hpFurniThumb.png",
+                "prodNameInfo": {
+                    "brand": "Levis",
+                    "productName": "Jeans pant blue"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1599",
+                    "productOriginalPrice": "3100",
+                    "productDiscount": "48%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpFurniThumb.png",
+                "prodNameInfo": {
+                    "brand": "Puma",
+                    "productName": "Shoe white"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1300",
+                    "productOriginalPrice": "1800",
+                    "productDiscount": "27%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpFurniThumb.png",
+                "prodNameInfo": {
+                    "brand": "Reebok",
+                    "productName": "Black Jacket"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "1800",
+                    "productOriginalPrice": "2200",
+                    "productDiscount": "18%",
+                    "productRating": "3"
+                }
+            },
+            {
+                "productImage": "/assets/hpFurniThumb.png",
+                "prodNameInfo": {
+                    "brand": "HRX",
+                    "productName": "T shirt gray"
+                },
+                "prodPriceInfo": {
+                    "productSellingPrice": "599",
+                    "productOriginalPrice": "899",
+                    "productDiscount": "33%",
+                    "productRating": "3"
+                }
+            }
+        ]
+    }

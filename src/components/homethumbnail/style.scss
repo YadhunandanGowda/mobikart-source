@@ -1,0 +1,30 @@
+
+    .CategoryChild {
+        margin: 20px;
+        margin-top: 0px;
+        text-align: center;
+        box-shadow: 0px 0px 10px 1px rgba(124,124,124,0.32);
+        border: 1px solid #dbdbdb;
+        border-radius: 4px;
+        transition: all 0.3s;
+        cursor: pointer;
+        &:hover {
+            transform: scale(1.05);
+        }
+
+        a {
+            text-decoration: none;
+        }
+        .thumbnailSec {
+
+            img {
+                max-width: 250px;            }
+        }
+        
+        p.thumbTitle {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #0059c6;
+            padding: 5px 5px 10px;
+        }
+    }
