@@ -8,7 +8,6 @@ import {
     faHeart, faPowerOff, faBell, faPhoneAlt, faCog
 } from '@fortawesome/free-solid-svg-icons';
 
-// import sitelogo from "../../../public/assets/sitelogo.svg";
 
 class Header extends Component {
     constructor(props) {
@@ -20,7 +19,7 @@ class Header extends Component {
             <header>
                 <div className="logoContainer">
                     <Link to="/">
-                    <img src="/assets/sitelogo.svg" alt="Company Logo" />
+                    <img src="/mobikart/assets/sitelogo.svg" alt="Company Logo" />
                     </Link>
                 </div>
                 <div className="searchBox">

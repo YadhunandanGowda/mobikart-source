@@ -19,15 +19,13 @@ class Home extends React.Component {
     //     console.log(this.state);
     // }
     componentDidMount() {
-        // let data = require("/json/homepage.json");
-  const url = "/json/homepage.json";
+        const url = "/mobikart/json/homepage.json";
         fetch(url,{
             headers: {
                 'Content-Type': 'application/json'
             }
         })
         .then(res => {
-            // console.log(res)
             return res.json()
         })
         .then(
